@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>InvoiceController</members>
+  </types>
+  <types>
+    <name>CustomMetadata</name>
+    <members>State_Sales_Tax.CA</members>
+    <members>State_Sales_Tax.ID</members>
+  </types>
+  <types>
+    <name>Layout</name>
+    <members>Invoice__c-Invoice Layout</members>
+    <members>State_Sales_Tax__mdt-State Sales Tax Layout</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Invoice__c</members>
+    <members>State_Sales_Tax__mdt</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Invoice__c.Price_before_tax__c</members>
+    <members>Invoice__c.State__c</members>
+    <members>State_Sales_Tax__mdt.Tax_Rate__c</members>
+  </types>
+  <types>
+    <name>ApexPage</name>
+    <members>Invoices</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Invoice__c</members>
+  </types>
+  <version>41.0</version>
+</Package>
