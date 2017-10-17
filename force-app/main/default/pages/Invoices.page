@@ -1,0 +1,10 @@
+<apex:page controller="InvoiceController">
+  <apex:pageBlock title="All Invoices">
+        <apex:pageBlockTable value="{!invoices}" var="i">
+            <apex:column value="{!i.invoice.Name}"/>
+            <apex:column value="{!i.invoice.State__c}"/>
+            <apex:column value="{!i.invoice.Price_before_tax__c}"/>
+            <apex:column headerValue="Price (after tax)" value="{!i.afterTaxPrice}"/>
+        </apex:pageBlockTable>
+    </apex:pageBlock>
+</apex:page>

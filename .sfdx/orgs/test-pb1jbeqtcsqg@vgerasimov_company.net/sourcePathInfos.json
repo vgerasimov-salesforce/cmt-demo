@@ -1,0 +1,452 @@
+[
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508271270000,
+            "changeTime": 1508271270000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508271270000,
+            "changeTime": 1508271270000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 340,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "d08aaf9ca5f9bd39e9daf3a31819ca5de04b1e6b"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1508271270000,
+            "changeTime": 1508271270000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1508271652000,
+            "changeTime": 1508271652000,
+            "contentHash": "8b83a6fc8ebc85fbcc0a9655c8a88ee3e37f3e95",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/pages/Invoices.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/pages/Invoices.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 284,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "a357fbaea2eb4c538d6333aa439e54e8825137b5"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/pages/Invoices.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/pages/Invoices.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 470,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "331468e7218129ddc2b3998aef0a541f1489c25d"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/Invoice__c/Invoice__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/Invoice__c/Invoice__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2188,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "8bd7977fb3dbec79c24a1b1f5d223cf86e975637"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/Invoice__c/fields/Price_before_tax__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/Invoice__c/fields/Price_before_tax__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "d9e74dff2c4039218fe859e39b2d8ae5598703bd"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/Invoice__c/fields/State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/Invoice__c/fields/State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 938,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "4b140272780b8ad281b0df799db4f3cce2ac0c13"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/State_Sales_Tax__mdt/State_Sales_Tax__mdt.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/State_Sales_Tax__mdt/State_Sales_Tax__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 238,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "98a62850dc9f535e955058b8a9b282402323c7ae"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/State_Sales_Tax__mdt/fields/Tax_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/State_Sales_Tax__mdt/fields/Tax_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 413,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "fb3d891222996771962218e1d0dfc09ecd546743"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/layouts/Invoice__c-Invoice Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/layouts/Invoice__c-Invoice Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2236,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "2a3367709e28c6604121a464b1f2d3a67f24c4a1"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/layouts/State_Sales_Tax__mdt-State Sales Tax Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/layouts/State_Sales_Tax__mdt-State Sales Tax Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2341,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "12f82d32c7650257a4f6b9103ef251dd1af157b5"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/tabs/Invoice__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/tabs/Invoice__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "4320804cd223afaa728acedf63622ae630e79e78"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/classes/InvoiceController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/classes/InvoiceController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/classes/InvoiceController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/classes/InvoiceController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 999,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "63466e0cdc90c12fb75c91a12df399aa727ac193"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4671,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "08023aa0cc54b9f4e9c0fa5f5283e144998b889a"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4671,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "08023aa0cc54b9f4e9c0fa5f5283e144998b889a"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5009,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "a4c8ca521d83d9359907d60bd83885afa3f610d6"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17814,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "ea5794a6c9858fdedd15086d1ead8c0eb166106a"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/customMetadata/State_Sales_Tax.ID.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/customMetadata/State_Sales_Tax.ID.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "fc8e72e9646e6ec11b86c195681559bb4c92e57b"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/customMetadata/State_Sales_Tax.CA.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/customMetadata/State_Sales_Tax.CA.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 398,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "ce62fe6c45587208ff91ec6af5cf67d8dc63601b"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/pages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "efc763869fa3698a3cd8e39a4a1038822f74e2e2"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/Invoice__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/Invoice__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "57e317baeb7f9d2849d87529d9652cad815769cc"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "4ab96ac65d6f4281ebcc008d9baff0cffbdc0b10"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/Invoice__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/Invoice__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "91859deaba80a756b53f0052919199d4bc656aa1"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/State_Sales_Tax__mdt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/State_Sales_Tax__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "842878d01cae55e5b1bed554922787f28e5a69ba"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/State_Sales_Tax__mdt/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/objects/State_Sales_Tax__mdt/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "533839433346a64301a289fa79c6196ea7e7d45e"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "1551d5227a8d7b617d39adc0b08cc5e6ae7f672f"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "ef673863314e68461adebd9dceb9c75e3bf41174"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "9f770ccd09fde5d9777ceb7aa05f1abd4aae40f2"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/customMetadata",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vgerasimov/Documents/SFDX/cmt-demo/force-app/main/default/customMetadata",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508272714000,
+            "changeTime": 1508272714000,
+            "contentHash": "ce9ba4c3d120322f074a3a205a2f1ddbedbf5a0f"
+        }
+    ]
+]
